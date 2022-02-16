@@ -1,6 +1,6 @@
 baseURL = 'http://the1fool.com/'
 languageCode = 'en-us'
-title = 'My Hugo Site'
+title = 'the1fool.com'
 paginate = 1
 [params]
 dateFormat = "Feb 15"
