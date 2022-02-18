@@ -8,8 +8,10 @@ img {
 .page-wrapper {
     display: flex;
     min-height: 100vh;
-    background-image: url(/images/dji4.jpg);
+    min-width: 100vh;
+    background-image: url(/images/dji4.jpg) no-repeat center center fixed;
     background-size: cover;
+    overflow: hidden;
     position: relative;
     justify-content: center;
     align-items: center;
