@@ -4,18 +4,18 @@
 
            <article class="single-post border-bottom pb-4">
             <h2 class="entry-title mt-4 mb-4" >
-                <a href="{{.Permalink }} ">{{ .Title }}</a>               
+                <a href="{{.Permalink }} " style="text-decoration: none">{{ .Title }}</a>               
             </h2>
             <div class="post-meta mb-4">
-                <div class="post-author"> Author: {{ .Params.author }}</div>
-                <div class="post-date">
-                    <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
-                </div>
-                <div class="post-tags">
+                <span class="post-author"> Author: {{ .Params.author }}  </span>
+                <span class="post-date">
+                    <time>{{ dateFormat .Site.Params.dateFormat .Date }} </time>
+                </span>
+                <span class="post-tags">
                     {{range (.GetTerms "tags")}}
                           <a href="{{.Permalink }}">{{.LinkTitle}}</a>
                     {{end}}
-                </div>
+                </span>
             </div>
             <div class="entry-content">{{.Summary}}</div>
         </article>
