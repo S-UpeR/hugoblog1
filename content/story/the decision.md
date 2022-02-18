@@ -2,8 +2,8 @@
 title = "The Decision"
 date = 2022-02-15T17:44:57+01:00
 draft = false
-author =  "S.Upe.R" 
-tags = ["Games", "Role Playing"]
+author =  "u.r" 
+tags = ["My First Short Story"]
 +++
 
 Why chess strategies are on crack about chess strategies. Unbelievable hidden object game success stories. Expose: you're losing money by not using car games.

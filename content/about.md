@@ -6,4 +6,5 @@ author =  "U.R"
 tags = ["About"]
 +++
 
-Welcome to my site. Working on it... Have patience. 
+Hallo... 
+It's new. I am still working on it. Have patience. 

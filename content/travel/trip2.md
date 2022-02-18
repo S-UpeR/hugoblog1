@@ -2,7 +2,7 @@
 title = "Why you'll never succeed at video game software"
 date = 2022-02-15T17:44:57+01:00
 draft = false
-author =  "S.Upe.R" 
+author =  "U.R" 
 tags = ["Games", "Role Playing"]
 +++
 
