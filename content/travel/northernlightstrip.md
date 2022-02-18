@@ -2,7 +2,7 @@
 title = "The unsuccesfull Northern Lights Trip"
 date = 2022-02-15T17:22:20+01:00
 draft = false
-author =  "S.Upe.R" 
+author =  "U.R" 
 tags = ["Games", "Role Playing"]
 +++
 
