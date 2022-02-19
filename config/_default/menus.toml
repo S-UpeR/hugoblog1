@@ -7,10 +7,10 @@ name = "home"
 url = ""
 weight = 1
 
-#[[main]]
-#name = "Travels"
+[[main]]
+name = "Categories"
 url = "categories/"
-#weight = 2
+weight = 5
 
 [[main]]
 name = "Travels"
