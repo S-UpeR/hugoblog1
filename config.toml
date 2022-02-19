@@ -1,14 +1,3 @@
 baseURL = 'http://the1fool.com/'
 languageCode = 'en-us'
-title = "The Fool's Blog"
-paginate = 5
-[params]
-dateFormat = "Feb 15"
-googleAnalytics = 'UA-220868668-1'
-
-
-
-
-
-
-
+title = "The Fool's World"
