@@ -1,5 +1,5 @@
 ---
-title: "I am RAM"
+title: "I am SURA"
 image: "images/aboutme.png"
 description: "this is meta description"
 layout: "about"
