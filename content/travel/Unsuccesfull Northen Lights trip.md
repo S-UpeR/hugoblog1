@@ -1,9 +1,9 @@
 ---
-title: "What else do we need to make this a success?"
+title: "Unsuccessful Northern Lights Trip"
 date: 2021-07-15T15:41:01+06:00
 image: "images/02.jpg"
 featured: false
-categories: ["One day Trips"]
+categories: ["Northern Lights"]
 draft: false
 ---
 
