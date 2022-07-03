@@ -51,6 +51,6 @@ link = "#"
 icon = "fab fa-instagram"
 link = "#"
 
-[[social]]
-icon = "fab fa-dribbble"
-link = "#"
+#[[social]]
+#icon = "fab fa-dribbble"
+#link = "#"
