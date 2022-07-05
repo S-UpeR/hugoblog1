@@ -1,5 +1,5 @@
 ---
-title: "The Christmas Train Trip through Eastern Europe"
+title: "A trip through Central Europe"
 date: 2021-07-15T15:41:01+06:00
 image: "images/02.jpg"
 featured: false

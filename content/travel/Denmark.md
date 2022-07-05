@@ -1,9 +1,9 @@
 ---
-title: "Unsuccessful Northern Lights Trip"
+title: "Rad in Denmark"
 date: 2021-07-15T15:41:01+06:00
 image: "images/02.jpg"
 featured: false
-categories: ["Northern Lights"]
+categories: ["Cycling Trip"]
 draft: false
 ---
 

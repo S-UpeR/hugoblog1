@@ -1,9 +1,9 @@
 ---
-title: "Amsterdam and Cycling"
+title: "A chase for Northern Lights in Finland"
 date: 2021-07-15T15:41:01+06:00
 image: "images/02.jpg"
 featured: false
-categories: ["Cycling Trips"]
+categories: ["Northern Lights"]
 draft: false
 ---
 

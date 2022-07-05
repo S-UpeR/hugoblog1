@@ -1,9 +1,9 @@
 ---
-title: "Hamburg Miniaturwunderland Trip"
+title: "Sunset in Poland"
 date: 2021-07-15T15:41:01+06:00
 image: "images/02.jpg"
 featured: false
-categories: ["One Day Trip"]
+categories: ["Cycling"]
 draft: false
 ---
 
