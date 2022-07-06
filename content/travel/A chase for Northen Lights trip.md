@@ -1,7 +1,7 @@
 ---
 title: "A chase for Northern Lights in Finland"
 date: 2021-07-15T15:41:01+06:00
-image: "images/02.jpg"
+image: "images/03.jpg"
 featured: false
 categories: ["Northern Lights"]
 draft: false

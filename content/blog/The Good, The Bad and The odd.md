@@ -1,7 +1,7 @@
 ---
-title: "The Good, The Bad and The ODD"
+title: "King, Queen, Jack and the Joker"
 date: 2021-07-14T15:06:41+06:00
-image: "images/02.jpg"
+image: "images/joker.jpeg"
 featured: false
 categories: ["Novel"]
 draft: false
