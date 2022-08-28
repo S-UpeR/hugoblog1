@@ -1,6 +1,6 @@
 ---
 title: "A last-minute getaway to Kołobrzeg"
-date: 2021-07-15T15:41:01+06:00
+date: 2022-07-15T15:41:01+06:00
 image: "images/poland.jpg"
 featured: false
 categories: ["Cycling", "Poland"]
@@ -36,7 +36,7 @@ Now, we had to put something in our stomachs to kill hunger. We rode on our bike
 {{< image src="images/poland/szc2.jpg" caption="National Museum in Szczecin Dialogue Centre Przelomy / KWK Promes" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 {{< image src="images/poland/szc3.jpg" caption="View of Szczecin Cathedral" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 {{< image src="images/poland/szc4.jpg" caption="Cycle pathway on the Oder riverfront" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
-{{< image src="images/poland/tram.jpg" caption="Tram in Szczcecin" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/poland/tram.jpg" caption="Tram in Szczecin" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 We came back to the station and boarded the train with our bikes. The train was empty. We parked our bikes and sat in the nearby open saloon with a table seat. A few minutes later, the train was also crowded. But still, we had a place to sit. I sat on the window seat and enjoyed the view as the train moved. Little later, our bikes fell as a woman moved our bikes from the parking place and sat there. A girl tried to help us in keeping our cycles back. But the woman had no response. We had no interest in arguing with her as we were tired. I was annoyed, but I tried to keep calm. She looked at us as if we were at fault.
 
@@ -65,7 +65,7 @@ The ride took us a bit far into the sea. As the ride went on, we sat on the ship
 
 The following itinerary for our trip was to go for a small cycle tour. It was the only planned thing on our journey. But it didn't go the way we planned. Initially, we thought of 50kms, but it was already 2 pm. So, we reduced it to 26 km. The first half of the ride was along the sea beach, and it was terrific. We even made a video of it. We passed through a parade of old polish cars playing loud music along the way. One of the cars had a Pornhub casting sticker on it. That was funny. 
 
-{{< image src="images/poland/porn.jpg" caption="Pornhub Casting Car" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/poland/porn.jpg" caption="Fake Pornhub Casting Car" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 We stopped at an eco-park with swamps. The beach was the only thing separating the eco-park and the sea. The beach also had many wooden Groynes along the coast. We stood on one of the groynes, flew my drone, and made some hyper lapses and 360 photographs. Our ride resumed after a small break. We passed through a small airfield with a charter plane on it. We thought of trespassing, but one of us reminded us that we are foreigners in a foreign land. After that, we gave up our stupidity and carried on. The second half of the ride was bumpy and wild. We rode through farms, a village, then onto a highway, and later back into the city. We were tired and wanted to have a bite.
 
