@@ -1,7 +1,7 @@
 ---
 title: "David and Goliath"
 date: 2022-08-14T15:06:41+06:00
-image: "images/dg.jpeg"
+image: "images/dj2.jpeg"
 featured: false
 categories: ["Short Story"]
 draft: false
