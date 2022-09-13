@@ -1,7 +1,7 @@
 ---
 title: "One Flaw"
 date: 2022-08-14T15:06:48+06:00
-image: "images/oneflaw.jpg"
+image: "images/oneflaw1.jpg"
 featured: false
 categories: ["Short Story"]
 draft: false

@@ -28,7 +28,7 @@ url = "blog/"
 weight = 3
 
 [[main]]
-name = "about me"
+name = "me & Others"
 url = "about/"
 weight = 4
 
