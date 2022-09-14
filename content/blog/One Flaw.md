@@ -58,7 +58,7 @@ I said: "You still didn't answer my question. What are you doing here? I am pret
 
 He then paused, his eyes widened, his mouth opened, making a sound aaaaaahhhh, and said," I forgot about that completely"…. 
 
-He looked around for a second to make sure no one heard and sat beside me on the bed. "It looks like our efforts for the past three months will be in the mud. Harish and Sashi have the money needed to buy the iPod. I saw them hiding the money under the cupboard. I don't know how much it was, but I overheard them saying they would buy it from Ravi the evening after the Roll Call. It looks like the offer wasn't only for us. We had competition all along, and they beat us.". 
+He looked around for a second to make sure no one heard and sat beside me on the bed. "It looks like our efforts for the past three months will be in the mud. Harish and Shiva have the money needed to buy the iPod. I saw them hiding the money under the cupboard. I don't know how much it was, but I overheard them saying they would buy it from Ravi the evening after the Roll Call. It looks like the offer wasn't only for us. We had competition all along, and they beat us.". 
 
 "Wait, wait, wait—Give a moment to think—You said they hid the money under the cupboard. Are they both still in the room?"
 
@@ -84,7 +84,7 @@ I took a deep breath and said nervously: "It's simple. We will steal the money �
 
 "Continue,": Ali said
 
-"It's not stealing—We are just borrowing it. We will take this money. We will not use it but hide it with us. We will return it the moment when we buy the iPod.?. Sounds good?." 
+"It's not stealing—We are just borrowing it. We will take this money. We will not use it but keep it with us. We will return it the moment when we buy the iPod.?. Sounds good?." 
 
 He pondered for a minute and said: "Fine with your idea. But, we will be the first suspects when they find out they have lost their money ."
 
