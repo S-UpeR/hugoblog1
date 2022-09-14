@@ -104,7 +104,7 @@ He pondered for a minute and said: "Fine with your idea. But, we will be the fir
 
 "OK. But, as we buy an iPod, we will keep the money back. So don't forget that," Ali said. 
 
-We set the plan into motion. We stole the amount, and he went to exchange the notes as planned. I went to my room and lay in my bed. Half an hour later, Ali came back and gave me the money. I asked him nervously, "Why did you come back this early? You should have some after 6 pm to avoid any suspicion. Is all well?".  
+We set the plan into motion. We stole the amount, and he went to exchange the notes as planned. I went to my room and lay in my bed. Half an hour later, Ali came back and gave me the money. I asked him nervously, "Why did you come back this early? You should have come after 6 pm to avoid any suspicion. Is all well?".  
 
 He said calmly, "Yes, don't worry. I didn't want to have this large amount in my pocket. I will leave and go to the school library in a few minutes." 
 
