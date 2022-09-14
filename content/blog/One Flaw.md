@@ -130,7 +130,7 @@ I retorted, "You just had Golgappas, Pav bhaji, and an apple cake!—Is everythi
 
 "Don't talk —Just watch," I said 
 
-I hid the money. 
+I hid the money. He was impressed. 
 
 "Why can't we buy the iPod tonight? "I asked Ali.
 
