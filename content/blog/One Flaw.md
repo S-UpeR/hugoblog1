@@ -40,7 +40,7 @@ I glanced at the clock on the table beside the bed and realized I had slept for 
 He laughed:" Go fast, the trainer will be waiting for you on the ground. The last time you were half an hour late, he made you run the field for half an hour, and you were done —This time, you are 2 hours late, hmmm…  you must run on the field for 2 hours then. Can you last for 2 hours? I think you might need an ambulance after an hour. I still have no idea how you are on the junior hockey team ?" 
 
 I drew a deep breath and said: "Neither do I. It's better to skip today and take the punishment tomorrow."
-Ali said: "That would be better. You 
+Ali said: "That would be better for you."
 
 "A perfect one. Since it's not your first time, why didn't you keep an alarm to wake up": Ali interrupted. 
 
