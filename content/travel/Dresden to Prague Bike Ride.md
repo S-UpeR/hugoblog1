@@ -1,5 +1,5 @@
 ---
-title: "Dresden - Pargue Bike Ride"
+title: "Dresden - Pargue: Bike Ride"
 date: 2023-04-16T15:41:01+06:00
 image: "images/poland.jpg"
 featured: false
