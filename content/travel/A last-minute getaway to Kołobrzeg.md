@@ -80,7 +80,6 @@ We went back into the Innenstadt and found a Kebabhaus with a huge line outside.
 
 The following day, we boarded our train back. Unfortunately, the ride back home was also chaotic. We took a different route to avoid crowded trains in Germany, but luck wasn't on our side. On our way back, some trains didn't allow bikes on board. A funny incident happened on the way back. We boarded a crowded train with our bikes in Germany. A minute later, the conductor came and asked us to get out. We got out and saw that a guy with a bike who could not get in with his cycle complained to the conductor. But the funny thing was, a few minutes later, he took a train in the opposite direction. I didn't understand why the hell did he complain. I faced scenarios like this in India but never expected these incidents in Germany. This travel made me realize when push comes to the shove; everyone's the same, be it an Indian or a German. After nine tiresome and chaotic hours, we made it back, and our expenses for the entire trip were 90€. I liked this trip, as it was fun, frustrating, and exciting.
 
-
 >Our last minute getaway to Kołobrzeg was fun, chaotic, exciting and cheap.
 
 {{< vimeo 743816852 >}}
