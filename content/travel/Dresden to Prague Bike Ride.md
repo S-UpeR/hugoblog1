@@ -4,7 +4,7 @@ date: 2023-04-16T15:41:01+06:00
 image: "images/poland.jpg"
 featured: false
 categories: ["Bike Touring", "Germany" , "Czech Republic"]
-draft: true
+draft: false
 ---
 
 
