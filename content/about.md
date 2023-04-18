@@ -1,9 +1,9 @@
 ---
-title: "Hallo, I am Upi"
+title: "Hallo...."
 image: "images/aboutme2.jpg"
 description: "this is meta description"
 layout: "about"
 draft: false
 ---
 
-A fool who is on a adventure to explore himself and to broaden his horizons.  Just started. 
+We are Uppi(Storyteller and Traveller) and Govi(Artist), fools who are on an adventure to explore themselves and broaden their horizons. Just getting started...
