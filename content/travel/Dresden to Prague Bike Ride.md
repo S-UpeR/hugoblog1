@@ -1,5 +1,5 @@
 ---
-title: "A 250km Bike Ride: Dresden - Prague"
+title: "Wheely fun times: A scenic bike ride from Dresden to Prague"
 date: 2023-04-16T15:41:01+06:00
 image: "images/praguebike/01.jpg"
 featured: false
