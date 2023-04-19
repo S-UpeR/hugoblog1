@@ -140,6 +140,6 @@ In addition, Prague is full of shops that sell products containing Cannabis. Aft
 
 I then rode on to Dancing House, a unique building standing out for its unconventional design, which resembles a pair of dancers in motion.I just had an hour left for my train back and was tired. I then rode into the old town, riding behind trams, finding my way back to the station, and enjoying my time. Finally, I returned to the station, took my luggage, and took the train back to Germany.
 
-{{< image src="images/praguebike/c4.jpg" caption="Back to Home" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/c4.jpg" caption="Ride back to Home" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 >The ride was a fun, challenging, and exciting one. I was relieved that I completed the ride without any mishaps or difficulties. Most importantly, I met the entire five-day travel for under 100€.
