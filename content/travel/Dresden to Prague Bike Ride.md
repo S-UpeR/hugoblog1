@@ -31,32 +31,32 @@ Later, we opened our cooking equipment and had noodles and tea for the equipment
 
 >Cooking Equipment: Spiritus, Burner, a small metal bowl, and some cutlery . Sleeping Equipment: Hammock and Rain Tarp, Sleeping Bag, Sleeping pad .
 
-{{< image src="images/praguebike/4.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/4.jpg" caption="Our free B&B for 1st Day night" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 Day 2: 09.04.2023(90km Ride):   The next day, the weather was slightly better(Sunny, yet cold). So, after breakfast(cereals with milk) and tea, we set on our second day of the ride. After a few km ride, we entered the Sächsische Schweiz territory. We had a break in Königstein to have a hot chocolate drink and freshen up for the day. In Königstein is Königstein Fortress(Festung Königstein), perched high on a sandstone plateau, which I visited a while back. It offers a stunning panoramic view of the Elbe River valley, with its sandstone cliffs and river meanders. But it takes at least 5-6 hours. So, we dropped the idea and rode through Bad Schandau(a spa town nestled in the Elbe Sandstone Mountains.) This route section had stunning views of sandstone cliffs and rock formations. Finally, we reached the border, and we rode through the border for around 4 km, as the border was along the river. Finally, after a ride of 35 km from Stadt Wehlen, we reached Děčín(a city in the northern part of the Czech Republic).
 
-{{< image src="images/praguebike/5.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/5.jpg" caption="Děčín Castle on top of hill" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 We crossed the bridge(Tyršův most) and rode into the city, had a view of the Děčín Castle, located on a hill overlooking the town. The city center of Děčín has charming architecture, including historic buildings, churches, and squares. From that side, we saw many people climbing Shepherd's Wall via Ferrata on the other side of the river. So, naturally, I wanted to do it. But, due to time constraints, I put it on my bucket list for the future.
 
-{{< image src="images/praguebike/c3.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/c3.jpg" caption="Different bike paths of the Radweg(Cycle Route)" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 After that, we rode through industrial areas along the bank of the river to Ústí nad Labem, an industrial city on the banks of the Elbe River. By 4 pm, we were in the town. We strolled through the city, visited a supermarket, refilled our supplies, and stopped by a cafe to have a coffee and charge our phones. Now, it's time to find a place to crash for the night, if not a good spot for our hammock. We rode for around 20 km; we found a small locked house with a small garden on the outskirts of Libochovany, a small village. We searched around the house, but no one was there. It was perfect for us to crash for the night. We already rode for around 90km. I was done for the day. So, We unpacked, had dinner, and slept in our sleeping bags under the side of the roof. Our day two ride was pretty much smooth. 
 
-{{< image src="images/praguebike/8.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/8.jpg" caption="Our free B&B for 2nd Day night" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 Most of the road was paved, and only some parts of the ride were unpaved. Along the way, I saw many people riding kick bikes; it was my first time seeing kick bikes.
 
-{{< image src="images/praguebike/6.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
-{{< image src="images/praguebike/7.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/6.jpg" caption="Unpaved bike path passing through Czech village" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/7.jpg" caption="My bike taking a break beside a beautifully crafted dustbin" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 Day 3: 10.04.2023 (80km Ride):   The weather was perfect for cycling that day. Early morning, I enjoyed the view of trains running on both sides of the river. Then, we packed ourselves, had breakfast and tea, and resumed our journey.
 
-{{< image src="images/praguebike/9.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/9.jpg" caption="A beautiful morning view" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 After a few km ride, I found an excellent place to fly my drone. But unfortunately, I was unable to connect my phone to the drone, and I couldn't fly. So, we went on with our ride. The road to our next stop, i.e., Litomerice, was mainly unpaved. The day was bright and sunny. We reached Litomerice around 10 am. We rode through the Litomerice, a city known for Viticulture and winemaking. After roaming for 10 mins, we stopped at a cafe to charge our phones, freshen ourselves, and fill our water bottles. Then, we sat outside and had a Bagel and hot chocolate.
 
-{{< image src="images/praguebike/10.jpg" caption="Sunset on the next day" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
+{{< image src="images/praguebike/10.jpg" caption="Litoměřice's Street Signs" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 Meanwhile, we saw many kids with ribboned twigs and basket roaming around with their dads. (The twig is a braided one called pomlázka, made from pussy-willow twigs. The baskets are for collecting easter eggs(Krallice, a decorated egg) or candy.)  On easter Monday, Boys would whip girls lightly on the legs and possibly douse them with water. Then, the boy would recite an Easter carol, usually asking for an egg or two, while whipping. The girl would then reward the boy with a painted egg or candy and tie a ribbon around his pomlázka.* It was an intriguing tradition. While sitting outside, we enjoyed the view of the old city. An hour later, we resumed our ride. As we cycled downstream, we saw many people fishing along the banks of the river. They parked their cars and camped along the bank in tents, sitting on their chair leisurely—Fishing enthusiasts casting their lines and trying their luck at catching fish while enjoying the scenic views along the Elbe Radweg. But one must have a permit and license to fish in the Elbe in the Czech Republic. Fishing is a popular activity along the Elbe Radweg(bike route).
 
