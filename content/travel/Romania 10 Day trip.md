@@ -1,9 +1,9 @@
 ---
-title: "A last-minute getaway to Kołobrzeg"
-date: 2022-07-15T15:41:01+06:00
+title: "Rolling with the Punches: A 10 day Romanian Travelogue"
+date: 2023-04-07T15:41:01+06:00
 image: "images/poland.jpg"
 featured: false
-categories: ["Cycling", "Poland"]
+categories: ["Romania"]
 draft: false
 ---
 
