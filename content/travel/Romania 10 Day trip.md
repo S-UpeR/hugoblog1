@@ -1,5 +1,5 @@
 ---
-title: "Rolling with the Punches: A 10 day Romanian Travelogue"
+title: "Rolling with the Punches: A 10 day Romanian Odyssey"
 date: 2023-04-07T15:41:01+06:00
 image: "images/romania/head.jpg"
 featured: false
