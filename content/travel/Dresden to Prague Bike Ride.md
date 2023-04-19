@@ -1,7 +1,7 @@
 ---
 title: "A 250km Bike Ride: Dresden - Prague"
 date: 2023-04-16T15:41:01+06:00
-image: "images/poland.jpg"
+image: "images/praguebike/01.jpg"
 featured: false
 categories: ["Bike Touring", "Germany" , "Czech Republic"]
 draft: false
@@ -65,6 +65,8 @@ It was already 8 am. It was just a dream. My roomie was beside me, having his br
 We could only hope the rain would disappear and let the sun come. After breakfast, we resumed our ride—the final 35km to Prague. The rain made our ride a bit slower. After around 10km, we met an older man biking to Prague. We conversed along the way. He was a bike enthusiast from Sweden. He is biking from Hamburg to Prague along the Elbe River. He started his ride ten days ago. Even though he rode a lot and was old, he was faster than us. But we had to keep up with him. We chatted about bike rides along the way. He was a funny and friendly man.
 
 As we pedaled, we passed through charming villages, beautiful landscapes, and an old bridge. One of the highlights of this stretch is riding through a lush forest. Usually, it would have been fun, but it became a bit adventurous due to the rain, and the way was a lot slippery and uphill. Finally, after 3 hours, we approached Prague. As we did, the Elbe Radweg took us through the city's outskirts, passing by suburbs and parks along the riverbanks. As we entered Prague, we cycled along the riverfront and had to part with our Swedish guest and with the rain. He took a photo of us and thanked us for the company. Our hostel was in the old town of Prague. We had a heavy Georgian Cuisine for lunch in the old Prague town. We then went to Prague supermarket to refill items needed for the return journey of my roomie, as my roomie was traveling by bike back to Germany. We realized things are around 50 percent costlier in Prague than in the rest of Czech due to Tourism. Finally, it started becoming sunny, and it was good.
+
+>In Prague, I liked the city's speed breakers design. They are mainly designed to allow bikes without any problem but not for Cars or any other vehicle.
 
 We then walked through the beautiful cobblestone streets in Prague and passed through Prague Astronomical Clock(The famous medieval clock first installed in 1410 in Prague's Old Town Square with an hourly "Procession of the Apostles" show and ornate design.). We then went to a souvenir shop and bought some postcards. Then we had a vanilla Trdelník ice cream, famous in Prague. There are long queues around shops to buy Trdelník ice cream, although it's a bit costly. We enjoyed it. I had it whenever I visited Prague. Then we went to our hostel Safestay Hostel. It was cheap, 16€ per person for a night in the city center, albeit there was no parking place for cycles and everything else we needed to pay for. We went to our rooms, and I had a fresh bath for an hour after riding around for four days without a bath. It was already 5 pm.
 
