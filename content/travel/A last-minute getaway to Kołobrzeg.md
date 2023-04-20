@@ -1,5 +1,5 @@
 ---
-title: "A last-minute getaway to Kołobrzeg"
+title: "From Stress To Sand: Our Chaotic Kołobrzeg Adventure"
 date: 2022-07-15T15:41:01+06:00
 image: "images/poland.jpg"
 featured: false
