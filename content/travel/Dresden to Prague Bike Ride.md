@@ -142,4 +142,4 @@ I then rode on to Dancing House, a unique building standing out for its unconven
 
 {{< image src="images/praguebike/c4.jpg" caption="Ride back to Home" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
->The ride was a fun, challenging, and exciting one. I was relieved that I completed the ride without any mishaps or difficulties. Most importantly, I met the entire five-day travel for under 100€.
+>Comleting this exhilating bke ride from Dresden to Prague was an unforgettable experience that left us with a sense of accomplishment and a deeper appreciation for the stunning natural beauty and rich cultural history of this part of Europe. In the end, The entire trip was under 100€. 
