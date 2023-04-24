@@ -1,5 +1,5 @@
 ---
-title: "Out of the Ashes, the Phoenix Rises"
+title: "Chapter 1: Out of the Ashes, the Phoenix Rises"
 date: 2023-04-24T15:06:41+06:00
 image: "images/joker.jpeg"
 featured: false
