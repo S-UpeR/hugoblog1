@@ -1,6 +1,6 @@
 ---
-title: "Hallo...."
-image: "images/aboutme2.jpg"
+title: "Hallo, Hello, Namaste...."
+image: "images/me.jpg"
 description: "this is meta description"
 layout: "about"
 draft: false
