@@ -1,5 +1,5 @@
 ---
-title: "Lights, Camera, Chaos: Society's love with Stars"
+title: "Modern Society"
 date: 2022-08-14T15:06:41+06:00
 image: "images/lights,chaos.jpg"
 featured: false
