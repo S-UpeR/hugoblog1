@@ -12,13 +12,8 @@ Please have some patience, my very few readers... Will be available in a few day
 
 >A trip to challenge myself.
 
-
-
 {{< image src="images/romania/buc.jpg" caption="Old Town Bucharest" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 {{< image src="images/romania/Brasov1.jpg" caption="Brasov" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
-
-
 >In the end, every cloud has its sliverlining. 
 
-{{< vimeo 743816852 >}}
