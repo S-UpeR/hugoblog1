@@ -1,13 +1,14 @@
 ---
 title: "The Burning Solace"
-date: 2023-06-14T15:06:41+06:00
-image: "images/lights,chaos.jpg"
+date: 2023-06-26T15:06:41+06:00
+image: "images/myj3.jpeg"
 featured: false
 categories: ["Short Story"]
 draft: false
 ---
 
-## Chapter 1
+#### Chapter 1: _Silent Flames_
+
 Struggling to fall asleep, he cautiously unzipped the tent, careful not to disturb his sleeping companions and stepped outside. Extending his arms in a stretch, he meandered aimlessly before settling on a split rail fence facing the shimmering beach. The cool sea breeze kissed his skin, sending pleasant shivers down his spine. Still, he remained oblivious to the chill, with his gaze fixed on the mesmerizing glow emanating from the sea. The rhythmic symphony of crashing waves filled his ears with a melodic lullaby that beckoned him into a realm of deep contemplation. 
 
 Startled by the gentle pat on his shoulder, he swiftly turned his head and, to his surprise, discovered his aunt standing there. She had ventured out of the tent, searching for him, her concerned gaze meeting his.

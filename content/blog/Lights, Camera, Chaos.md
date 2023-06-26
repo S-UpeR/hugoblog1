@@ -1,7 +1,7 @@
 ---
 title: "Modern Society"
 date: 2023-06-14T15:06:41+06:00
-image: "images/lights,chaos.jpg"
+image: "images/modern1.jpeg"
 featured: false
 categories: ["Short Story"]
 draft: false
