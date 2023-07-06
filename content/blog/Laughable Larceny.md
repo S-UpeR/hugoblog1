@@ -1,7 +1,7 @@
 ---
 title: "Laughable Larceny"
 date: 2023-07-03T15:06:41+06:00
-image: "images/author1.jpg"
+image: "images/laugh.png"
 featured: false
 categories: ["Short Story"]
 draft: false
