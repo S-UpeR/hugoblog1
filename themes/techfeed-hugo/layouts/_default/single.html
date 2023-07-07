@@ -73,10 +73,8 @@
           </ul>
         </div>
       </div>
-            </div id="comments">
-                 {{ if .Params.Comments}}
-                        {{partial "disqus.html" .}}
-                  {{end}}
+            </div>
+                {{partial "disqus.html" .}}
             </div>
       <div class="col-12 mt-5">
         <div class="single-post-similer section">
