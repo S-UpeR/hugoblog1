@@ -1,15 +1,18 @@
 {{ define "main" }}
-
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h1>404</h1>
-        <h2>Page Not Found</h2>
-				<a class="btn btn-main" href="{{ site.BaseURL | relLangURL }}">Back to home</a>
-      </div>
+  <main id="main">
+    <div>
+      <h1 id="title">Oops! You're Lost in the Upside Down!</h1>
+      <p>Seems like you've stumbled upon a mysterious realm. Don't worry, we'll get you back to the real world!</p>
+      <img src="img/404_image.png" alt="Upside Down Image" />
+      <p>While our expert team of demogorgon hunters searches for a way out, feel free to:</p>
+      <ul>
+        <li>Dance like Eleven to summon a portal</li>
+        <li>Join Hopper on a quest for waffles</li>
+        <li>Unleash your inner Steve Harrington and style your hair</li>
+        <li>Try talking to Barb, she's been lost here for a while</li>
+      </ul>
+      <p>Remember, the key to survival in the Upside Down is a sense of humor. Hang in there!</p>
+      <p><a href="{{ "" | relURL }}">Go Home</a></p>
     </div>
-  </div>
-</section>
-
+  </main>
 {{ end }}
